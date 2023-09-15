@@ -11,6 +11,7 @@ interface BaseRepository
      * Поиск элемента по ID
      *
      * @param $id
+     *
      * @return Model|null
      */
     public function findOne($id): ?Model;
