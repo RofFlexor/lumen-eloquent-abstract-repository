@@ -1,0 +1,27 @@
+{
+    "name": "rofflexor/lumen-eloquent-abstract-repository",
+    "description": "laravel eloquent abstract repository",
+    "version": "1.0.0",
+    "type": "mit",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Rofflexor\\LumenEloquentAbstractRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rudolf Medvedev",
+            "email": "rof@andia.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0",
+        "illuminate/database": "v9"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    }
+}
