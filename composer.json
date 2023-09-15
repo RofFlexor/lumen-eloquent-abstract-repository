@@ -1,9 +1,9 @@
 {
     "name": "rofflexor/lumen-eloquent-abstract-repository",
     "description": "laravel eloquent abstract repository",
-    "version": "1.0.0",
-    "type": "mit",
-    "license": "GPL-3.0-only",
+    "version": "1.0.4",
+    "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Rofflexor\\LumenEloquentAbstractRepository\\": "src/"
